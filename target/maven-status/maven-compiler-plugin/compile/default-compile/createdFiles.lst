@@ -1,0 +1,17 @@
+com\sportyShoes\model\Product.class
+com\sportyShoes\service\ProductCrudService.class
+com\sportyShoes\repository\ProductRepository.class
+com\sportyShoes\service\Impl\PurchaseCrudServiceImpl.class
+com\sportyShoes\SportyShoesApplication.class
+com\sportyShoes\service\Impl\ProductCrudServiceImpl.class
+com\sportyShoes\repository\UserRepository.class
+com\sportyShoes\repository\PurchaseRepository.class
+com\sportyShoes\controller\PurchaseController.class
+com\sportyShoes\service\Impl\UserCrudServiceImpl.class
+com\sportyShoes\exception\handling\UserError.class
+com\sportyShoes\model\Purchase.class
+com\sportyShoes\service\PurchaseCrudService.class
+com\sportyShoes\controller\UserController.class
+com\sportyShoes\service\UserCrudService.class
+com\sportyShoes\controller\ProductController.class
+com\sportyShoes\model\User.class
